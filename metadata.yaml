@@ -22,6 +22,8 @@ description: "Tom Brown at Oxford is a novel by Thomas Hughes, first published i
   \ form are available at from the Hathi Trust. \nThe illustrator Sydney Prior Hall\
   \ (1842–1922), portrait painter and illustrator, was one of the leading reportage\
   \ artists of the later Victorian period.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26851#Tom-Brown-at-Oxford
 gutenberg_issued: '2008-10-09'
 gutenberg_type: Text
 identifiers:
