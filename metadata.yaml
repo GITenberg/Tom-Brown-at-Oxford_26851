@@ -1,0 +1,42 @@
+_repo: Tom-Brown-at-Oxford_26851
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hughes, Thomas
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '645'
+    url: http://www.gutenberg.org/2009/agents/645
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hughes
+description: "Tom Brown at Oxford is a novel by Thomas Hughes, first published in\
+  \ serial form in Macmillan Magazine in 1859. It was published in two volumes in\
+  \ book form in 1861. It is a sequel to the better-known Tom Brown's School Days.\n\
+  \nThe story follows the character of Tom Brown to St Ambrose's College, Oxford.\
+  \ The novel offers a vivid impression of university life in the mid nineteenth century\n\
+  The book was out of print for many years but is available in Britain from Wordsworth\
+  \ Classics with 'Tom Brown's Schooldays' and as the copyright on the text has expired\
+  \ is now available on the Project Gutenberg ebook site. Editions of the serialized\
+  \ form are available at from the Hathi Trust. \nThe illustrator Sydney Prior Hall\
+  \ (1842–1922), portrait painter and illustrator, was one of the leading reportage\
+  \ artists of the later Victorian period.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2008-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26851'
+  wikidata: Q7815103
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College stories'
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'University of Oxford -- Fiction'
+title: Tom Brown at Oxford
+url: http://www.gutenberg.org/ebooks/26851
+wikipedia:
+- https://en.wikipedia.org/wiki/Tom_Brown_at_Oxford
